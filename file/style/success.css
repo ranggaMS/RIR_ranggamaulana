@@ -1,0 +1,58 @@
+/* navbar */
+
+.navnav{
+    width: 1440px;
+    height: 60px;
+    background: linear-gradient(180deg, #FECF67 0%, #FFFAED 185.83%);
+}
+
+.navbar-brand{
+    padding-top: 15px;
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+
+    color: #000000;
+}
+
+/* tutup navbar */
+
+/* sukses */
+
+.icon{
+    margin-top: 176px;
+}
+
+.kata{
+    margin-top: 69px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 38px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #000000;
+}
+
+.btn-submit{
+    margin-top: 69px;
+    box-sizing: border-box;
+    width: 380px;
+    height: 50px;
+    background: #EACA7A;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 18px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+
+    color: #000000;
+}
+
+/* tutup sukses */

@@ -1,0 +1,289 @@
+/* navbar */
+
+.navbar{
+    width: 1440px;
+    height: 60px;
+    background: #F2C86B;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+.navbar-brand{
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #000000;
+}
+
+.navbar-nav{
+    margin-left: 200px;
+}
+
+.nav-link{
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #000000;
+    margin-left: 19px;
+}
+
+.icon1{
+    margin-left: 253px;
+    color: #000000;
+    font-size: 22px;
+}
+
+.icon{
+    margin-left: 58px;
+    color: #000000;
+    font-size: 22px;
+}
+
+/* tutup navbar */
+
+.breadcrumb{
+    margin-top: 20px;
+    background-color: white;
+    padding-left: 120px;
+}
+
+.breadcrumb-item{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    color: #000000;
+}
+
+/* detail */
+
+.detail{
+    margin-top: 60px;
+    margin-left: 120px;
+}
+
+.detil-pr{
+    margin-left: 89px;
+}
+
+.detil-name{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #000000;
+}
+
+.detil-harga{
+    margin-top: 5px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    color: #000000;
+}
+
+.bintang{
+    margin-left: 96px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    color: #000000;
+}
+
+.detilproduc{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+}
+
+.varian{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #000000;
+}
+
+.ukuran{
+    margin-left: 80px;
+}
+
+.custom-select{
+    box-sizing: border-box;
+    width: 160px !important;
+    height: 35px;
+    border: 1px solid #000000;
+    border-radius: 4px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+}
+
+.btn-submit{
+    margin-top: 40px;
+    width: 490px;
+    height: 40px;
+    background: #EEB640;
+    border-radius: 4px;
+
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    text-align: center;
+
+    color: #000000;
+
+
+}
+
+.btn-add{
+    margin-top: 20px;
+    width: 490px;
+    height: 40px;
+    background: #F4F4F4;
+    border: 1px solid #000000;
+    border-radius: 4px;
+
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    text-align: center;
+
+    color: #000000;
+
+
+}
+
+/* tutup detail */
+
+/* may like */
+
+
+.popular{
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-top: 109px;
+}
+
+.popular h5{
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    color: #000000;
+    margin-bottom: 79px;
+}
+
+.pp-name{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: #000000;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.pp-price{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: #000000;
+
+}
+
+.product{
+    margin-left: 40px;
+}
+
+/* tutup may like */
+
+
+/* footer */
+footer{
+    margin-top: 90px;
+    padding-top: 67px;
+    padding-left: 120px;
+    padding-right: 120px;
+    background-color: #F2C86B;
+    width: 1440px;
+    height: 307px;
+}
+
+.footer-item{
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    color: #000000;
+
+}
+
+.bran{
+    margin-top: 5px;
+}
+
+.bran p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+
+}
+
+.footer-link a{
+    margin-top: 18px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000; 
+
+}
+
+.catego{
+    margin-left: 143px;
+}
+
+.help{
+    margin-left: 180px;
+}
+
+.social{
+    margin-top: -40px;
+    margin-left: 213px;
+}
+
+.copyright{
+    box-sizing: border-box;
+    width: 1440px;
+    height: 50px;
+    background: #F2C86B;
+    border-top: 1px solid #000000;
+
+}
+
+.copyright h5{
+    padding-top: 11px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+
+    color: #000000;
+}
+/* tutupfooter */
